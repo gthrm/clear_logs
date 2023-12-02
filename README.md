@@ -18,12 +18,12 @@ Automatically clean `quick-start-combined.log` log files in your system with Tel
 2. **Setting Up .env File:**
    Create a `.env` file in your home directory with the following variables:
 
-   ```
+   `
    LOG_DIR=/path/to/log/directory
    LOG_NAME=quick-start-combined.log
    TELEGRAM_TOKEN=your_telegram_bot_token
    TELEGRAM_CHAT_ID=your_chat_id
-   ```
+   `
 
 3. **Make Script Executable:**
 
