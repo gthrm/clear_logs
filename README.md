@@ -63,4 +63,4 @@ To automate the log file cleanup, you can set up a cron job:
 
 ## License
 
-[Specify License Type Here, if applicable]
+MIT
